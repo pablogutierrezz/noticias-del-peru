@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noticias-del-peru/static/css/main.c34da9e8.css",
+    "main.js": "/noticias-del-peru/static/js/main.81866a28.js",
+    "static/js/787.28cb0dcd.chunk.js": "/noticias-del-peru/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/noticias-del-peru/index.html",
+    "main.c34da9e8.css.map": "/noticias-del-peru/static/css/main.c34da9e8.css.map",
+    "main.81866a28.js.map": "/noticias-del-peru/static/js/main.81866a28.js.map",
+    "787.28cb0dcd.chunk.js.map": "/noticias-del-peru/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34da9e8.css",
+    "static/js/main.81866a28.js"
+  ]
+}
